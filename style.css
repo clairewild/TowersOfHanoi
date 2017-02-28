@@ -1,0 +1,40 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  display: block;
+  float: left;
+  width: 100px;
+  padding: 20px;
+  list-style: none;
+}
+
+li {
+ background: black;
+ height: 20px;
+ margin: 20px auto;
+ border-radius: 7px;
+}
+
+.big {
+  width: inherit;
+}
+
+.middle {
+  width: 70px;
+}
+
+.small {
+  width: 50px;
+}
+
+.hidden {
+  width: 0px;
+}
